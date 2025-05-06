@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sphere Material
+  m_Name: Pink
   m_Shader: {fileID: -6465566751694194690, guid: 1b0f69599176c994a880ea5fdc27a258,
     type: 3}
   m_Parent: {fileID: 0}
